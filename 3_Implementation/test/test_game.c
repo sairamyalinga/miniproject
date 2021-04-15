@@ -28,9 +28,9 @@ void testing_get_result(){
     TEST_ASSERT_EQUAL(6, get_result(1, 1));
     TEST_ASSERT_EQUAL(6, get_result(2, 2));
     TEST_ASSERT_EQUAL(4, get_result(0, 2));
-    TEST_ASSERT_EQUAL(4, get_result(0, 1));
-    TEST_ASSERT_EQUAL(5, get_result(1, 0));
-    TEST_ASSERT_EQUAL(4, get_result(1, 2));
-    TEST_ASSERT_EQUAL(5, get_result(2, 1));
+    TEST_ASSERT_EQUAL(5, get_result(0, 1));
+    TEST_ASSERT_EQUAL(4, get_result(1, 0));
+    TEST_ASSERT_EQUAL(5, get_result(1, 2));
+    TEST_ASSERT_EQUAL(4, get_result(2, 1));
     TEST_ASSERT_EQUAL(5, get_result(2, 0));
 }
