@@ -29,6 +29,13 @@ int get_result(int player, int computer)
 
   return results[idx].result;
 }
+/**
+ * @brief 
+ * 
+ * @param player 
+ * @param comp 
+ * @param result 
+ */
 
 void show_result(int player, int comp, int result)
 {
