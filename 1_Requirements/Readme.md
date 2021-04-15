@@ -13,8 +13,6 @@
 - It requires players choice in every turn.
 - It can run in both windows and linux operating systems
 
-## Defining Our System
-    -- TBD
 ## SWOT ANALYSIS
   ## Strengths
   - It can be played without any internet connection.
