@@ -1,15 +1,18 @@
 # Requirements
 ## Introduction
- -- People play games in their free time.\n
- --ROCK,PAPER,SCISSORS is such game played with atleast two players.
- -- It is played by showing signs with hands for every consecutive shout of ROCK PAPER SCISSORS.
+ -People play games in their free time.
+ -ROCK,PAPER,SCISSORS is such game played with atleast two players.
+ -It is played by showing signs with hands for every consecutive shout of ROCK PAPER SCISSORS.
 
 ## Research
-![Description](Link to Pic)
--- Content 
+-Gaming is one of the widely used leisure activities by many people. For some people it is said that playing video games has a number of reasons to be played, for it can be a stress reliever, challenge and competition, relaxation, enjoyment, social interaction, and even mentally escaping from the real world.
+
+
 ## Cost and Features
 ![Description](Link to Pic)
--- Content 
+-Its a simple program, there is no need to install any software or any internet connection to play.
+-It requires players choice in every turn.
+
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
