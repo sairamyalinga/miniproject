@@ -8,7 +8,6 @@
 
 int main(void)
 {
-  
   int player, computer, result;
 
   srand((unsigned)time(NULL));
