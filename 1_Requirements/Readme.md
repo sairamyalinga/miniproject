@@ -1,6 +1,8 @@
 # Requirements
 ## Introduction
- --- TBD 
+ -- People play games in their free time.
+ -- ROCK,PAPER,SCISSORS is such game played with atleast two players.
+ -- It is played by showing signs with hands for every consecutive shout of ROCK PAPER SCISSORS.
 
 ## Research
 ![Description](Link to Pic)
