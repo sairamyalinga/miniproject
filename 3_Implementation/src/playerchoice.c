@@ -4,7 +4,8 @@
 #include <time.h>
 #include <assert.h>
 #include <ctype.h>
-#include "/home/sairamya/Documents/mini/miniproject/3_Implementation/inc/main.h"
+#include "main.h"
+
 /**
  * @brief Get the player choice object
  * 
