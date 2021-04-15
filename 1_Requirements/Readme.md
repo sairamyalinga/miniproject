@@ -5,7 +5,7 @@
 - It is played by showing signs with hands for every consecutive shout of ROCK PAPER SCISSORS.
 
 ## Research
-- Gaming is one of the widely used leisure activities by many people. For some people it is said that playing video games has a number of reasons to be played, for it can be a stress reliever, challenge and competition, relaxation, enjoyment, social interaction, and even mentally escaping from the real world.
+- Gaming is one of the widely used leisure activities by many people. For some people it is said that playing games has a number of reasons to be played, for it can be a stress reliever, challenge and competition, relaxation, enjoyment, and even mentally escaping from the real world.
 
 
 ## Features
