@@ -18,7 +18,7 @@
 ## SWOT ANALYSIS
   ## Strengths
   - It can be played without any internet connection.
-  - A single player can play it which we can't physically. Here the second player can be Computer
+  - A single player can play it which is not possible normally. Here the second player can be Computer
   - It can run irrespective of operating system.
   
   ## Weakness
@@ -27,7 +27,7 @@
   ## Opportunities
   - Can be used by anyone in any system.
   ## Threats
-  - 
+  -  No security feature
 
 
 
@@ -57,10 +57,12 @@
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+- HR01  The user chooses his choice among three.
+- HR02  PC displays its choice
+- HR03  Displays final winner
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+- LR01    Checks the input from user whether its valid or not
+- LR02    Compare the user input with Computer's choice
+- LR03    Displays the final winner and prompts the user for his next input 
