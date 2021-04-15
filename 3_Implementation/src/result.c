@@ -29,6 +29,7 @@ int get_result(int player, int computer)
 
   return results[idx].result;
 }
+
 void show_result(int player, int comp, int result)
 {
   const char *result_names[] = {"Computer won", "Player won", "Draw"}; 
