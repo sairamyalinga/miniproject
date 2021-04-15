@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = test.exe
+PROJECT_NAME = ROCKPAPERSCISSORS
 
 # Output directory
 BUILD = build
