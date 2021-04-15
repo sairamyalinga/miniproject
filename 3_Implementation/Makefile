@@ -15,7 +15,7 @@ src/result.c\
 test/test_game.c\
 unity/unity.c\
 
-TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
+TEST_OUTPUT = Test_$(PROJECT_NAME).out
 
 # All include folders with header files
 INC	= -Iinc\
