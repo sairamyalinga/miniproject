@@ -19,3 +19,14 @@
 |-------------------------------------------------------------------------------------------------------------------| 
 |![image](https://user-images.githubusercontent.com/67336902/114977965-31ab4600-9ea6-11eb-8d32-4bc9646aba33.png)    |
 
+
+# Folder Structure
+|                Folder                    |                          Description                                             |
+|------------------------------------------|----------------------------------------------------------------------------------|
+| 1_Requirements                           | Documents having Introduction, Research and SWOT analysis                        |
+| 2_Design                                 | Files describing design flow                                                     |
+| 3_Implementation                         | Documents having all the implementing code for th project                        |
+| 4_Testplan                               | Documents of testplans                                                           |
+| 5_ImagesandVideos                        | All images required                                                              |
+
+
