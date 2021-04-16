@@ -2,7 +2,7 @@
 
 ## Table no 1: Test plan
 
-| **Test ID** | **Player_Choice**           |     **Computer_Choice **       | **Exp O/P**     | **Actual Out** |   **Status**     | **Type Of Test**  |    
+| **Test ID** | **Player_Choice**           |     **Computer_Choice**        | **Exp O/P**     | **Actual Out** |   **Status**     | **Type Of Test**  |    
 |-------------|-----------------------------|--------------------------------|-----------------|-------------   |------------------|-------------------|
 |  H_01       |   Rock                      |     Paper                      |Computer won     | Computer won   | PASS             | Scenario based    |
 |  H_02       |   Rock                      |     Scissors                   |Player won       | Player won     | PASS             | Scenario based    |
